@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/SILab2_graph.png?raw=true "Title")
+![Alt text](SILab2_graph.png?raw=true "Title")
